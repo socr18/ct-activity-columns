@@ -7,4 +7,4 @@ In this exercise, you're going to convert a layout which was designed for mobil
 2.  For screens 640 pixels for larger:
     *   `<section>` element should also take up 100% of their parent's height
 
-When done correctly, the tablet view (>=480 pixels) should have a full-height sidebar and one column of `<section>` elements. Conversely, the desktop view (>=640 pixels) should have an `<aside>` (sidebar) element and `<section>` elements that fit on a single row.
+When done correctly, the tablet view (>=480 pixels) should have a full-height `<aside>` and one column of `<section>` elements. Conversely, the desktop view (>=640 pixels) should have an `<aside>` element and `<section>` elements that fit on a single row.
