@@ -11,7 +11,7 @@ When done correctly, the tablet view (>=480 pixels) should have a full-height `<
 
 To test your layout, it may be helpful to use your chrome devtools [device mode](https://developers.google.com/web/tools/chrome-devtools/device-mode). Be careful though, some devices have different pixel ratios.
 
-You could also test by zooming/resizing your browser window.
+You could also test by zooming(cmd + on MacOS, ctrl + on windows) and then resizing your browser window.
 
 ## See below for example screenshots of a completed activity:
 
