@@ -9,7 +9,11 @@ In this exercise, you're going to convert a layout which was designed for mobil
 
 When done correctly, the tablet view (>=480 pixels) should have a full-height `<aside>` and one column of `<section>` elements. Conversely, the desktop view (>=640 pixels) should have an `<aside>` element and `<section>` elements that fit on a single row.
 
-See below for example screenshots of a completed activity:
+To test your layout, it may be helpful to use your chrome devtools [device mode](https://developers.google.com/web/tools/chrome-devtools/device-mode). Be careful though, some devices have different pixel ratios.
+
+You could also test by zooming/resizing your browser window.
+
+## See below for example screenshots of a completed activity:
 
 Screens under 480px:
 ![under 480px example](img/under480.png)
